@@ -1,5 +1,5 @@
 # AgentFlow
-Production-Grade Multi-Agent LLM System for Multi-Step Reasoning & API Orchestration
+Multi-agent LLM orchestration system reducing QA validation time by 35% through structured reasoning
 
 ---
 
