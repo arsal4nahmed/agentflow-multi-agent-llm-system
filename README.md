@@ -101,3 +101,12 @@ Architecture Components:
 - Reinforcement-based evaluation loop
 - Autonomous retry strategies
 - Monitoring dashboard
+
+## Tech Stack
+
+- Python
+- LLM APIs
+- JSON structured outputs
+- REST-based workflow automation
+- Prompt Engineering
+- Evaluation metrics
